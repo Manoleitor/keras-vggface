@@ -9,17 +9,13 @@ Oxford VGGFace  Implementation using Keras Functional Framework v2+
 - If you don't know where to start check the [blog posts](https://github.com/rcmalli/keras-vggface#projects--blog-posts) that are using this library.
 
 ~~~bash
-# Most Recent One (Suggested)
-pip install git+https://github.com/rcmalli/keras-vggface.git
-# Release Version
-pip install keras_vggface
-~~~
+# pip install
+pip install git+https://github.com/Manoleitor/keras-vggface.git
 
+### Library Versions, updated 12/2025
 
-### Library Versions
-
-- Keras v2.2.4
-- Tensorflow v1.14.0
+- Keras v3.12.0
+- Tensorflow v2.20.0
 - **Warning: Theano backend is not supported/tested for now.**
 
 ### Example Usage
